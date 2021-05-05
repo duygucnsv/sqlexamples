@@ -41,11 +41,7 @@
   ORNEK2: personel tablosuna cinsiyet varchar2(20) ve yas number(3) adinda ve default degeri ‘Turkiye’ olan
   yeni bir sutun ekleyiniz.
 ------------------------------------------------------------------------------*/    
- 
- 
- 
- 
- 
+
  
 /* -----------------------------------------------------------------------------
   ORNEK3: personel tablosundan yas sutununu siliniz.
